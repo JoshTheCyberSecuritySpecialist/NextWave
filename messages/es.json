@@ -1,0 +1,39 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "features": "Características",
+    "community": "Comunidad",
+    "faq": "Preguntas",
+    "download": "Descargar App"
+  },
+  "home": {
+    "hero": {
+      "title": "Súmate a la Ola de Creatividad",
+      "subtitle": "Comparte tu historia en segundos",
+      "cta": {
+        "ios": "Descargar para iOS",
+        "android": "Descargar para Android"
+      }
+    },
+    "features": {
+      "title": "Libera tu Creatividad",
+      "discover": {
+        "title": "Desliza y Descubre",
+        "description": "Entretenimiento sin fin al alcance de tu mano. Descubre videos tendencia de creadores en todo el mundo."
+      },
+      "editing": {
+        "title": "Edición Avanzada",
+        "description": "Herramientas de edición profesional para hacer que tu contenido destaque."
+      },
+      "challenges": {
+        "title": "Desafíos Comunitarios",
+        "description": "Únete a los desafíos tendencia y muestra tu versión única de temas populares."
+      },
+      "filters": {
+        "title": "Filtros RA",
+        "description": "Exprésate con filtros y efectos de realidad aumentada de última generación."
+      }
+    }
+  }
+}

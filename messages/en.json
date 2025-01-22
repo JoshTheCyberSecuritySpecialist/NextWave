@@ -1,0 +1,28 @@
+{
+  "upload": {
+    "title": "Upload Video",
+    "dropzone": {
+      "title": "Drag and drop your video here",
+      "subtitle": "or click to select (Max size: {maxSize})"
+    },
+    "form": {
+      "title": "Title",
+      "titlePlaceholder": "Enter a title for your video",
+      "description": "Description",
+      "descriptionPlaceholder": "Tell viewers about your video",
+      "submit": "Upload Video",
+      "uploading": "Uploading..."
+    },
+    "errors": {
+      "invalidType": "Invalid file type",
+      "allowedTypes": "Please upload MP4, MOV, or WEBM files only",
+      "tooLarge": "File too large",
+      "maxSize": "Maximum file size is 100MB",
+      "uploadFailed": "Upload failed"
+    },
+    "success": {
+      "title": "Upload successful",
+      "description": "Your video is being processed and will be available soon"
+    }
+  }
+}

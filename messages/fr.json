@@ -1,0 +1,39 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "features": "Fonctionnalités",
+    "community": "Communauté",
+    "faq": "FAQ",
+    "download": "Télécharger l'App"
+  },
+  "home": {
+    "hero": {
+      "title": "Surfez sur la Vague de la Créativité",
+      "subtitle": "Partagez votre histoire en quelques secondes",
+      "cta": {
+        "ios": "Télécharger pour iOS",
+        "android": "Télécharger pour Android"
+      }
+    },
+    "features": {
+      "title": "Libérez Votre Créativité",
+      "discover": {
+        "title": "Glissez pour Découvrir",
+        "description": "Du divertissement illimité au bout des doigts. Découvrez les vidéos tendance des créateurs du monde entier."
+      },
+      "editing": {
+        "title": "Édition Avancée",
+        "description": "Des outils d'édition professionnels pour faire ressortir votre contenu."
+      },
+      "challenges": {
+        "title": "Défis Communautaires",
+        "description": "Participez aux défis tendance et montrez votre interprétation unique des thèmes populaires."
+      },
+      "filters": {
+        "title": "Filtres RA",
+        "description": "Exprimez-vous avec des filtres et des effets de réalité augmentée de pointe."
+      }
+    }
+  }
+}
